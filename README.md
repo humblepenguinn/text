@@ -1,9 +1,20 @@
+⚠️ **Disclaimer:** If you encounter any errors or issues while using the live app, it's most likely due to one of my API tokens expiring or my account reaching its usage limit. In such cases, I advise you to run the application from the source code provided in this repository.
+
 <h1 align="center">
 <img src="assets/logo/cover.png" alt="text Logo" width="600">
 </h1>
 
 <div align="center">
-<h2 align="center">A TypeScript and Next.js Chat Application</h2>
+<a href="https://text-mocha.vercel.app/"><h2 align="center">Link to demo</h2></a>
+</div>
+
+<div align="center">
+  <video width="640" height="360" controls>
+    <source src="assets/demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 
 [![Built with Next.js](https://img.shields.io/badge/Built%20with-Next.js-black?style=flat-square)](https://nextjs.org/)
 [![Powered by TypeScript](https://img.shields.io/badge/Powered%20by-TypeScript-blue?style=flat-square)](https://www.typescriptlang.org/)
