@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-<a href="https://text-mocha.vercel.app/"><h2 align="center">Link to demo</h2></a>
+<a href="https://text-mocha.vercel.app/"><h2 align="center">Link to live demo</h2></a>
 </div>
 
 <div align="center">
