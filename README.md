@@ -5,15 +5,14 @@
 </h1>
 
 <div align="center">
-<a href="https://text-mocha.vercel.app/"><h2 align="center">Link to live demo</h2></a>
+<h2 align="center"><a href="https://text-mocha.vercel.app/">Link to live demo</a></h2>
 </div>
 
-<div align="center">
-  <video width="640" height="360" controls>
-    <source src="assets/demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+
+
+https://github.com/humblepenguinn/text/assets/92458623/2502a848-efad-4ada-b3ec-231e51628448
+
+
 
 
 [![Built with Next.js](https://img.shields.io/badge/Built%20with-Next.js-black?style=flat-square)](https://nextjs.org/)
